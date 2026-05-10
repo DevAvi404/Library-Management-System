@@ -145,4 +145,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Avishek Paul**
-- GitHub: [@DevAvi404](https://github.com/DevAvi404)
+- GitHub: [varVoid](https://github.com/DevAvi404)
