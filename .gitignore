@@ -1,0 +1,20 @@
+# NetBeans build output
+build/
+dist/
+
+# NetBeans private config (contains local machine paths)
+nbproject/private/
+
+# Compiled class files
+*.class
+
+# Local JAR dependencies (add them to a /lib folder and commit those instead)
+# *.jar
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.iml
+.idea/
